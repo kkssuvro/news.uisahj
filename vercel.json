@@ -1,4 +1,4 @@
-json 
+json
    { 
      "redirects": [ 
        { 
@@ -8,7 +8,7 @@ json
        }, 
        { 
          "source": "/another-old-path", 
-         "destination": "https://google.com", 
+         "destination": "https://www.google.com", 
          "permanent": false 
        } 
      ] 
