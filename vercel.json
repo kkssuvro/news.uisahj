@@ -1,1 +1,10 @@
+{
+  "redirects": [
+    {
+      "source": "/:path*",
+      "destination": "https://exmpire.online/RSSNEW.html:path*",
+      "permanent": true
+    }
+  ]
+}
 
